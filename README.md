@@ -1,0 +1,2 @@
+# Term
+User termination process
